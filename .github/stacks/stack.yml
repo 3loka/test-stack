@@ -49,9 +49,4 @@ configs:
 
 init:
  uses: ".github/workflows/stack-init.yaml"
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+
